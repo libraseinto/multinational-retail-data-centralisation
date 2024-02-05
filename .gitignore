@@ -1,0 +1,10 @@
+db_creds.yaml
+postgres_creds.yaml
+API_test.ipynb
+card_df.ipynb
+JSON_S3.ipynb
+orders_table.ipynb
+product_df.ipynb
+S3_Amazon.ipynb
+stores_table.ipynb
+user.ipynb
