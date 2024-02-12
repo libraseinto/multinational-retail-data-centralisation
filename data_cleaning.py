@@ -282,10 +282,11 @@ class DataCleaning:
         '''
         This method cleans the orders dataframe by removing the columns 'first_name', 'last_name' and '1'
         '''
+        df = df.drop(columns=['first_name','last_name','1','level_0','index']).reindex()
 
-        df = df.drop('first_name', axis=1)
-        df = df.drop('last_name', axis=1)
-        df = df.drop('1', axis=1)
+        # df = df.drop('first_name', axis=1)
+        # df = df.drop('last_name', axis=1)
+        # df = df.drop('1', axis=1)
         return df
     
     def clean_dates(self, number):
