@@ -6,7 +6,7 @@
 - [Configuration](#configuration)
 - [File Structure](#file-structure)
 - [Contact](#contact)
-- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ## Description
 This project aims to provide an easy way for multinational retail companies to centralise their data from various sources into one database system that can be accessed by all the members of the company regardless.
@@ -33,6 +33,11 @@ The project has 3 main files with specific functions. They are the following:
 
 ## Contact
 The GitHub profile for the person in charge on maintaining this code is `https://github.com/libraseinto`
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This software is provided "as is", without warranty of any kind.
 
 
 
